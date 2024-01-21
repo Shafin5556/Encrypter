@@ -1,6 +1,6 @@
 **Video demonstration** (click the picture):
 
-[![Toolbox demo](https://i.imgur.com/8lFUlgz.png)](https://youtu.be/bkMtNE13Rs8)
+[![Toolbox demo]([https://i.imgur.com/8lFUlgz.png](https://shafinahmed.me/assets/images/encrypter.png))](https://youtu.be/bkMtNE13Rs8)
 
 ## Modern Encryption Application
 Modern Encryption Application:
