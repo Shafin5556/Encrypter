@@ -1,8 +1,5 @@
 **Video demonstration** (click the picture):
-
-[![Toolbox demo]([https://i.imgur.com/8lFUlgz.png](https://shafinahmed.me/assets/images/encrypter.png))](https://youtu.be/bkMtNE13Rs8)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+[![Application demo](https://shafinahmed.me/assets/images/encrypter.png)](https://youtu.be/bkMtNE13Rs8)
 
 
 ## Modern Encryption Application
