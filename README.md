@@ -1,6 +1,7 @@
 **Video demonstration** (click the picture):
 
-[![Demo Video](encrypter.png | width=200 | height=150)](https://www.youtube.com/watch?v=bkMtNE13Rs8)
+
+[![Demo Video](encrypter.png)](https://www.youtube.com/watch?v=bkMtNE13Rs8)
 
 
 ## Modern Encryption Application
