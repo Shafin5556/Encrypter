@@ -3,6 +3,7 @@
 
 
 [![Demo Video](https://shafinahmed.me/assets/images/encrypter.png)](https://www.youtube.com/watch?v=bkMtNE13Rs8)
+[![Demo Video](encrypter.png)](https://www.youtube.com/watch?v=bkMtNE13Rs8)
 
 
 ## Modern Encryption Application
