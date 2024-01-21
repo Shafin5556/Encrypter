@@ -1,5 +1,5 @@
 **Video demonstration** (click the picture):
-[![Application demo](https://shafinahmed.me/assets/images/encrypter.png)]([https://youtu.be/bkMtNE13Rs8](https://youtu.be/bkMtNE13Rs8))
+
 
 [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
