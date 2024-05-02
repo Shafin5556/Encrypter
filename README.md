@@ -1,7 +1,7 @@
 **Video demonstration** (click the picture):
 
 
-[![Demo Video](encrypter.png)](https://www.youtube.com/watch?v=bkMtNE13Rs8)
+[![Demo Video](encrypter.png)]([https://www.youtube.com/watch?v=bkMtN13Rs8](https://www.encrypter.shafinahmed.me/))
 
 
 ## Modern Encryption Application
